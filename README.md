@@ -1,2 +1,0 @@
-# Dataming
-Dataming beginner
